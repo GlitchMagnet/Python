@@ -1,3 +1,10 @@
+'''
+Domain    : Python
+Subdomain : Introduction
+Author    : Jacob Matini
+Created   : 11 April 2018
+'''
+
 if __name__ == '__main__':
     
     x, y, z, n = (int(input()) for _ in range(4))   
